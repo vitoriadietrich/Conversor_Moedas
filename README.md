@@ -1,8 +1,8 @@
-# 💱 Conversor de Moedas
+# Conversor de Moedas
 
 Projeto desenvolvido com HTML, CSS e JavaScript para converter valores entre diferentes moedas utilizando taxas de câmbio atualizadas por meio de uma API.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Conversão entre diferentes moedas
 * Atualização automática das taxas de câmbio
@@ -10,14 +10,14 @@ Projeto desenvolvido com HTML, CSS e JavaScript para converter valores entre dif
 * Exibição instantânea do valor convertido
 * Validação dos campos de entrada
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * API de Câmbio
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 /
@@ -27,7 +27,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript para converter valores entre dif
 └── README.md
 ```
 
-## 🌐 API Utilizada
+## API Utilizada
 
 Adicione aqui a API utilizada no projeto.
 
@@ -37,7 +37,7 @@ Exemplo:
 https://exchangerate-api.com/
 ```
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
@@ -53,7 +53,7 @@ cd conversor-moedas
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
@@ -64,10 +64,10 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Atualização dinâmica da interface
 * Conversão e formatação de valores monetários
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo deste projeto é praticar a integração com APIs externas e desenvolver uma aplicação capaz de realizar conversões monetárias em tempo real de forma rápida e eficiente.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Vitória Dietrich**.
